@@ -33,7 +33,7 @@ export default {
     // 三级标题样式
     h3: {
       'font-weight': `bold`,
-      'font-size': `1.1em`,
+      'font-size': `1em`,
       margin: `2em 8px 0.75em 0`,
       'line-height': `1.2`,
       'padding-left': `8px`,
