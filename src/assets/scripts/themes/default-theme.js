@@ -79,7 +79,7 @@ export default {
       'border-radius': `8px`,
       padding: `1em`,
       'line-height': `1.5`,
-      margin: `10px 0px`,
+      margin: `10px 15px 10px 0px`,
     },
     code: {
       margin: 0,
